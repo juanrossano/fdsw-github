@@ -4,6 +4,28 @@ body {
 
 /* Hero Section */
 
+#Principal {
+  color: #04044d ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+#Leyenda {
+  color: #7bc004 ;
+  font-weight: bold;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
+#Boton {
+  color: #20006f ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: left;
+}
+
 #Hero-Section {
   background-image: url("../img/bg-hero.jpg");
   background-repeat: no-repeat;
